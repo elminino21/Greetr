@@ -1,0 +1,1 @@
+console.log(G$('test1', 'test1'));
